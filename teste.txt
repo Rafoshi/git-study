@@ -1,0 +1,5 @@
+sim
+sxm
+sbm
+svm
+szm
