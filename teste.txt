@@ -1,5 +1,5 @@
 sim
-sxm
+smm
 sbm
 svm
 szm
